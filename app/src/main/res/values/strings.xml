@@ -1,0 +1,14 @@
+<resources>
+    <resources>
+        <string name="app_name">20SOECA21006</string>
+        <string name="lblname">About Us</string>
+        <string name="etEnroll">20SOECA21006</string>
+        <string name="etFirstName">shruti</string>
+        <string name="etMiddleName">rambhai</string>
+        <string name="etLastName">chhayani</string>
+        <string name="etEmail">schhayani020@rku.ac.in</string>
+        <string name="etPassword">jasdan</string>
+        <string name="etGender">Female</string>
+        <string name="etCity">Rajkot</string>
+    </resources>
+</resources>
